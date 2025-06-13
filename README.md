@@ -22,4 +22,7 @@ By completing the exercises in this repository, students will:
 - Be capable of building a **simple raytracer**, combining math and OOP.
 
 ## 📁 Structure
+This repository contains 10 graded practical exercises for the Mathematics for Computer Graphics course, implemented in Python.
+Organized into 10 folders, each exercise is self-contained and progressively builds on the previous ones, combining mathematical concepts and object-oriented programming (OOP).
+This structured progression guides students step-by-step through both the theory and practice needed to develop a simple raytracer from scratch, reinforcing key skills in mathematics and software design along the way.
 
